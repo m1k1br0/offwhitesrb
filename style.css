@@ -1,0 +1,224 @@
+nav{
+    display: flex;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    margin-left: 74vh ;
+    position: relative;
+    width: 110vh;
+    height: 5vh;
+    background-color:#413076;
+    border-radius: 25px;
+    font-size: 0;
+}
+
+
+
+hr{
+    color: white;
+}
+
+nav div a{
+    font-family: 'Quicksand', sans-serif;
+    line-height: 5vh;
+    height: 100%;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.nav{
+    border-radius: 25px;
+    flex-grow: 1;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav:hover{
+    box-shadow: inset 0 0 0 35px #8C93A4;
+}   
+
+
+body{
+    background-color: #8C93A4;
+}
+
+header{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    margin-left: 74vh ;
+    height: 10vh;
+    width: 110vh;
+    border-radius: 25px;
+    background-color: #413076; 
+}
+
+.kontaktforma{
+    margin-top: 5vh;
+    margin-left: 10vh;
+}
+
+label{
+    color: white;
+    font-family:  'Quicksand', sans-serif;
+}
+
+textarea{
+    font-family:  'Quicksand', sans-serif;
+}
+
+input{
+    font-family:  'Quicksand', sans-serif;  
+}
+
+
+
+.page{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    margin-left: 74vh ;
+    height: 100vh;
+    width: 110vh;
+    border-radius: 25px;
+    border: 3px solid #413076;
+}
+
+.slikemajica{
+    margin-top: 10vh;
+}
+
+a{
+    margin: 0 auto;
+}
+
+.majica{
+    width: 20vh;
+
+}
+
+.linkmajice{
+   
+    display: inline-block;
+    margin: 0 8vh;
+    transition: all 0.5s ;
+}
+.linkmajice:hover{
+    opacity: 0.3;
+}
+
+
+.crnamajicabroj1{
+    margin-top: 10vh;
+    height: 50vh;
+}
+
+.crnamajicabroj2{
+    margin-top: 10vh;
+    height: 30vh;
+    
+}
+
+
+.slikemajica p{
+    display: inline-block;
+
+}
+
+
+.zajednicki{
+    display: flex;
+}
+
+#crnamajicabroj1{
+    flex-grow: 1;
+    text-align: center;
+    width: 3;
+    margin: 0px auto;
+}
+
+.velicine{
+    
+text-align: center;
+}
+
+.velicina{
+    
+    display: inline;
+}
+
+.formula{
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.s70{
+    margin-left: 15vh;
+    color: white;
+}
+
+.s20{
+    margin-left: 30vh;
+    color: white;
+}
+
+.s70v2{
+    margin-left: 30vh;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+.main{
+    border-radius: 25px;
+    padding: 2vh;
+    height: 89vh;
+    position: fixed;
+    left: 5.5vh;
+    width: 59.5vh;
+    background-color: #413076;
+}
+
+header h1{
+    font-size: 5vh;
+    line-height: 10vh;
+    text-align: center;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+    font-size: 5vh;
+    line-height: 10vh;
+    text-align: center;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.mejn{
+    left: 10vh;
+}
+
+
+*{
+    scroll-behavior: smooth;
+    }
+
+.kontaktformapoz{
+    margin-top: 5vh;
+    height: 70vh;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 25px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
